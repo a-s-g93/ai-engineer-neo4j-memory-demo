@@ -66,3 +66,10 @@ Begin a conversation with Claude Desktop.
 Each interaction should be automatically logged in the Neo4j database you've configured. 
 
 These memories may be used between different conversations with Claude and even accessed by other clients such as Cursor or Windsurf, if they are configured with the same Neo4j instance. 
+
+
+## Example Knowledge Graph
+
+This knowledge graph contains the semantic memories of our conversation.
+
+![knowledge-graph](./assets/images/kg-memory.png)
